@@ -1,12 +1,12 @@
 ## Español
 
-### ¿Cuando es la conferencia?
+### ¿Cuándo es la conferencia?
 
-### ¿Cuál la dirección del venue y como llego allí?
+### ¿Cuál la dirección del Venue y como llego allí?
 
-### ¿En caso de una emergencia medica que debo hacer?
+### ¿En caso de una emergencia medica qué debo hacer?
 
-### ¿A que horas abre el venue?
+### ¿A qué horas abre el Venue?
 
 ### ¿Cómo puedo obtener una carta de invitación para mi visa?
 
@@ -14,20 +14,20 @@
 
 ### ¿Hay tickets para estudiantes?
 
-### Quiero ser un sponsor del evento ¿Cómo?
+### Quiero ser un sponsor del evento ¿cómo?
 
-### Quiero dar una charla ¿Cómo?
+### Quiero dar una charla ¿cómo?
 
-### Compré mi tiquete ¿Dónde esta?
+### Compré mi ticket ¿dónde esta?
 
 ### ¿Cómo obtengo mi escarapela para entrar a la conferencia?
 
 ### ¿Tienen alguna especie de newsletter o lista de correo?
 
-### ¿Tienen algún codigo de conducta?
+### ¿Tienen algún código de conducta?
 
 ### Compré mi ticket, pero ya no puedo asistir
 
-### ¿Las charlas será grabadas y publicadas?
+### ¿Las charlas serán grabadas y publicadas?
 
-### Necesito una factura, ¿Como la obtengo?
+### Necesito una factura, ¿cómo la obtengo?
