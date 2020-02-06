@@ -31,3 +31,5 @@
 ### ¿Las charlas serán grabadas y publicadas?
 
 ### Necesito una factura, ¿cómo la obtengo?
+
+### Compré la boleta y no puedo asistir al evento
