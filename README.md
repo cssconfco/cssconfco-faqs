@@ -1,7 +1,7 @@
 ## Español
 
 ### ¿Cuándo es la conferencia?
-La conferencia es el Sábado 21 de Marzo del 2020
+La conferencia es el sábado 21 de marzo del 2020
 
 ### ¿Cuál la dirección del Venue y como llego allí?
 [Ruta N, Calle 67 Nº 52-20, Piso 2 Torre A. Medellín — Colombia](https://goo.gl/maps/DyWWrXfcHrj551ZK8)  
@@ -10,7 +10,7 @@ Para llegar recomendamos hacer uso del sistema [Metro](https://www.metrodemedell
 - Linea 1, estación **Ruta N, U. de A**.
 
 ### ¿En caso de una emergencia medica qué debo hacer?
-Contactar lo más rapido posible a cualquiera de los organizadores, voluntarios o personal del Venue. Te recordanos que el numero unico de emergencias en Colombia es el 123.
+Contactar lo más rapido posible a cualquiera de los organizadores, voluntarios o personal del Venue. Te recordamos que el número unico de emergencias en Colombia es el 123.
 
 ### ¿A qué horas abre el Venue?
 El primer registro será a las 8:00 AM.
