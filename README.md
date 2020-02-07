@@ -10,7 +10,7 @@ Para llegar recomendamos hacer uso del sistema [Metro](https://www.metrodemedell
 - Linea 1, estación **Ruta N, U. de A**.
 
 ### ¿En caso de una emergencia medica qué debo hacer?
-Contactar lo más rapido posible a cualquiera de los organizadores o 
+Contactar lo más rapido posible a cualquiera de los organizadores, voluntarios o personal del Venue. Te recordanos que el numero unico de emergencias en Colombia es el 123.
 
 ### ¿A qué horas abre el Venue?
 El primer registro será a las 8:00 AM.
