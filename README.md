@@ -4,7 +4,7 @@
 La conferencia es el sábado 21 de marzo del 2020.
 
 ### ¿Cuál la dirección del Venue y como llego?
-Ruta N, Calle 67 Nº 52-20, Piso 2 Torre A. Medellín — Colombia
+Ruta N, Calle 67 Nº 52-20, Piso 2 Torre A, Medellín — Colombia  
 Para llegar recomendamos hacer uso del sistema Metro:
 - Linea A, estación **Hospital**.
 - Linea 1, estación **Ruta N, U. de A**.  
