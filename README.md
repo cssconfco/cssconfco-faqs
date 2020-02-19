@@ -21,7 +21,7 @@ El primer registro será a las 7:00 AM.
 Envíanos un correo solicitando la carta de invitación a hola@cssconf.co
 
 ### ¿Puedo ser un voluntario?
-Ya contamos con un equipo de voluntarios, no es posible aplicar para ser voluntario.
+Ya contamos con un equipo de voluntarios.
 
 ### ¿Hay tickets para estudiantes?
 No poseemos ningún tipo de descuento para estudiantes pero si podrías aplicar a nuestros tickets de scholarship, donde tu ticket saldría completamente gratis.
