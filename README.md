@@ -15,7 +15,7 @@ Para llegar recomendamos hacer uso del sistema Metro:
 Contactar lo más rápido posible a cualquiera de los organizadores, voluntarios o personal del Venue. Te recordamos que el número único de emergencias en Colombia es el 123.
 
 ### ¿A qué horas abre el Venue?
-El primer registro será a las 8:00 AM.
+El primer registro será a las 7:00 AM.
 
 ### ¿Cómo puedo obtener una carta de invitación para mi visa?
 Envíanos un correo solicitando la carta de invitación a hola@cssconf.co
