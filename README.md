@@ -51,10 +51,13 @@ Sí, y es necesario aceptarlo para la asistencia del evento https://github.com/c
 ¡Te recomendamos que dones tu ticket! muchas personas no tienen los recursos para adquirir uno. Escríbenos a hola@cssconf.co y nosotros nos encargaremos del resto.
 
 ### ¿Las charlas serán grabadas y publicadas?
-Esto depende de la meta de sponsorship que logremos. Si conoces una empresa que le gustaría apoyarnos con la grabación y edición escríbenos a hola@cssconf.co.
+Sí, las charlas serán grabadas y publicadas.
 
 ### Necesito una factura, ¿cómo la obtengo?
 CSS Conf Colombia no es una empresa, ni fundación registrada en Colombia. Sin embargo, podemos ofrecerte una cuenta de cobro. Escríbenos a hola@cssconf.co con la información de la razón social, NIT y dirección de la empresa y referencia de los tickets.
 
 ### Necesito un refund de mi ticket
 Si necesitas un refund de tu compra debes tener en cuenta que todos los fees bancarias y de nuestra pasarela de pagos corren por tu cuenta. Debe solicitarse a más tardar 30 días a partir de la fecha de tu compra y al menos 30 días de anticipación de la fecha del evento. Escríbenos con tu solicitud a hola@cssconf.co.
+
+### ¿Cuál es la posición de la conferencia respecto al Coronavirus?
+Para responder esta pregunta hemos emitido un comunicado oficial que puedes leer aquí: https://bit.ly/comunicado-cssconf
