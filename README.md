@@ -1,7 +1,7 @@
 ## Español
 
 ### ¿Cuándo es la conferencia?
-La conferencia es el sábado 21 de marzo del 2020.
+La nueva fecha de la conferencia **se esta definiendo**.
 
 ### ¿Cuál la dirección del Venue y como llego?
 Ruta N, Calle 67 Nº 52-20, Piso 2 Torre A, Medellín — Colombia  
