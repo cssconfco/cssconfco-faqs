@@ -60,4 +60,4 @@ CSS Conf Colombia no es una empresa, ni fundación registrada en Colombia. Sin e
 Si necesitas un refund de tu compra debes tener en cuenta que todos los fees bancarias y de nuestra pasarela de pagos corren por tu cuenta. Debe solicitarse a más tardar 30 días a partir de la fecha de tu compra y al menos 30 días de anticipación de la fecha del evento. Escríbenos con tu solicitud a hola@cssconf.co.
 
 ### ¿Cuál es la posición de la conferencia respecto al Coronavirus?
-Para responder esta pregunta hemos emitido un comunicado oficial que puedes leer aquí: https://bit.ly/comunicado-cssconf
+Para responder esta pregunta hemos emitido dos comunicados oficiales que puedes leer aquí: https://bit.ly/comunicado-cssconf y aquí: http://bit.ly/aplaza-cssconf.
