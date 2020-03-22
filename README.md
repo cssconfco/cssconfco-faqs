@@ -1,7 +1,7 @@
 ## Español
 
 ### ¿Cuándo es la conferencia?
-La nueva fecha de la conferencia **se esta definiendo**.
+La **nueva** fecha de la conferencia **se esta definiendo**. La fecha anterior era el 21 de Marzo del 2020.
 
 ### ¿Cuál la dirección del Venue y como llego?
 Ruta N, Calle 67 Nº 52-20, Piso 2 Torre A, Medellín — Colombia  
