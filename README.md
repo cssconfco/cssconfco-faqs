@@ -1,10 +1,10 @@
 # CSS Conf Colombia 2021 — FAQS 
-📖 You can read them in [Spanish](https://github.com/cssconfco/faqs/blob/master/README.md#-espa%C3%B1ol) or [English](https://github.com/cssconfco/faqs/blob/master/README.md#-english).
+📖 You can read them in 🇪🇸 [Spanish](https://github.com/cssconfco/faqs/blob/master/README.md#-espa%C3%B1ol) or 🇬🇧 [English](https://github.com/cssconfco/faqs/blob/master/README.md#-english).
 
 ## 🇪🇸 Español
 
 ### ¿Cuándo es la conferencia?
-* La nueva fecha de la conferencia es el 10 de Abril del 2020.
+* La nueva fecha de la conferencia es el 10 de Abril del 2021.
 
 ### ¿Puedo ser un voluntario?
 * Ya contamos con un equipo de voluntarios.
@@ -27,7 +27,7 @@
 ## 🇬🇧 English
 
 ### When is the conference?
-* The new conference date is April 10, 2020.
+* The new conference date is April 10, 2021.
 
 ### Can I be a volunteer?
 * We already have a team of volunteers.
