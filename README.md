@@ -1,4 +1,4 @@
-## Español
+## 🇪🇸 Español
 
 ### ¿Cuándo es la conferencia?
 La **nueva** fecha de la conferencia es el 10 de Abril del 2020.
@@ -21,8 +21,25 @@ Sí, y es necesario aceptarlo para la asistencia del evento https://github.com/c
 ### ¿Las charlas serán grabadas y publicadas?
 Sí, las charlas serán grabadas y publicadas.
 
-### Necesito una factura, ¿cómo la obtengo?
-CSS Conf Colombia no es una empresa, ni fundación registrada en Colombia. Sin embargo, podemos ofrecerte una cuenta de cobro. Escríbenos a hola@cssconf.co con la información de la razón social, NIT y dirección de la empresa y referencia de los tickets.
+## 🇬🇧 English
 
-### ¿Cuál es la posición de la conferencia respecto al Coronavirus?
-Para responder esta pregunta hemos emitido dos comunicados oficiales que puedes leer aquí: https://bit.ly/comunicado-cssconf y aquí: http://bit.ly/aplaza-cssconf.
+### When is the conference?
+The ** new ** conference date is April 10, 2020.
+
+### Can I be a volunteer?
+We already have a team of volunteers.
+
+### I want to be a sponsor of the event, how?
+Send us an email with your company information and indicating that you are interested in being sponsors to hola@cssconf.co.
+
+### I want to give a talk, how?
+The CFPs (Call for Proposals) are already closed, it is no longer possible to apply to give a talk this time.
+
+### I bought my ticket, where is it?
+If you have questions about the status of your ticket write to us at hola@cssconf.co.
+
+### Do you have a code of conduct?
+Yes, and it is necessary to accept it to attend the event https://github.com/cssconfco/code-of-conduct
+
+### Will the talks be recorded and published?
+Yes, the talks will be recorded and published.
