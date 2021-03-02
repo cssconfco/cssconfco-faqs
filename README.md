@@ -1,5 +1,5 @@
 # CSS Conf Colombia 2021 — FAQS 
-You can read them in [Spanish](https://github.com/cssconfco/faqs/blob/master/README.md#-espa%C3%B1ol) or [English](https://github.com/cssconfco/faqs/blob/master/README.md#-english).
+📖 You can read them in [Spanish](https://github.com/cssconfco/faqs/blob/master/README.md#-espa%C3%B1ol) or [English](https://github.com/cssconfco/faqs/blob/master/README.md#-english).
 
 ## 🇪🇸 Español
 
