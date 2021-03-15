@@ -30,6 +30,9 @@ Sí, y es necesario aceptarlo para la asistencia del evento https://github.com/c
 ### ➡️ ¿Las charlas serán grabadas y publicadas?
 Sí, las charlas serán grabadas y publicadas incluyendo subtitulos.
 
+### ➡️ ¿En que idioma será dictado el Minibootcamp y/o Taller?
+En Español
+
 ### ➡️ Compré boleta para el Minibootcamp y/o Taller, ¿puedo tener un refund?
 No, desafortunadamente no tenemos opción de refund para el Minibootcamp y talleres.
 
@@ -67,6 +70,9 @@ Yes, and it is necessary to accept it to attend the event https://github.com/css
 
 ### ➡️ Will the talks be recorded and published?
 Yes, the talks will be recorded and published including subtitles.
+
+### ➡️ In what language will the Minibootcamp and / or Workshop be delivered?
+In Spanish
 
 ### ➡️ I bought a ticket for the Minibootcamp and/or Workshop, can I have a refund?
 No, unfortunately we do not have a refund option for the Minibootcamp and workshops.
