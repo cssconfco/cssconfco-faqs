@@ -4,8 +4,8 @@ This document works as a FAQs and Terms and Conditions. If you have any question
 Please be aware that buying any ticket or attending the conference means that you agreed the FAQs and Terms and Conditions described here as you agreed the the [Code of Conduct](https://github.com/cssconfco/code-of-conduct).
 
 ## 📖  Summary
-1. [FAQs in Spanish](https://github.com/cssconfco/faqs#-espa%C3%B1ol)
-2. [FAQs in English](https://github.com/cssconfco/faqs#-english)
+1. 🇪🇸 [FAQs in Spanish](https://github.com/cssconfco/faqs#-espa%C3%B1ol)
+2. 🇬🇧 [FAQs in English](https://github.com/cssconfco/faqs#-english)
 
 ## 🇪🇸 Español
 
