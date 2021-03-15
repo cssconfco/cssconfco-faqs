@@ -1,7 +1,7 @@
 # CSS Conf Colombia 2021 — FAQS & Terms and Conditions
-This document works as a FAQs and Terms and Conditions of the Conference. If you have any question not covered here please reach us at [hello@cssconf.co](mailto:hello@cssconf.co).
+This document works as a FAQs and Terms and Conditions. If you have any question that is not covered here please reach us at [hello@cssconf.co](mailto:hello@cssconf.co).
 
-Buying any ticket and attending the conference means that you agreed the FAQs and Terms and Conditions described here, it also means that you agree the [Code of Conduct](https://github.com/cssconfco/code-of-conduct).
+Please be aware that buying any ticket or attending the conference means that you agreed the FAQs and Terms and Conditions described here as you agreed the the [Code of Conduct](https://github.com/cssconfco/code-of-conduct).
 
 ## 📖  Summary
 1. [FAQs in Spanish](https://github.com/cssconfco/faqs#-espa%C3%B1ol)
